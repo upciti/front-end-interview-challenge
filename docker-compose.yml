@@ -1,0 +1,6 @@
+services:
+  api:
+    image: "ghcr.io/upciti/front-end-interview-fake-api:main"
+    restart: always
+    ports:
+      - 3000:3000
