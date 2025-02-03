@@ -15,6 +15,7 @@ We're not expecting a production-ready application, but rather a demonstration o
 ### 📡 Data fetching
 
 - Use the Docker Compose setup ([docker-compose.yml](./docker-compose.yml)) to run the API.
+- If you need to change the CORS configuration, adjust the [`FRONT_URL`](./docker-compose.yml) environment variable in the [docker-compose.yml](./docker-compose.yml) file. By default, it is set to http://localhost:5173.
 - Retrieve data from the provided API. Explore the Swagger documentation at http://localhost:3000/docs.
 
 ### 📊 Charts & KPIs
