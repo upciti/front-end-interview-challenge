@@ -6,7 +6,9 @@ Welcome to our front-end challenge!
 
 Your mission is to conceive an elegant, high-performing way to present the provided data to the end user. We encourage you to be creative in how you display this data—just remember to keep things simple and intuitive. You'll be building a user interface that interacts with the provided backend, but the ultimate goal is to show us how you structure, design, and implement a front-end solution from the ground up.
 
-We're not expecting a production-ready application, but rather a demonstration of your approach to problem-solving and front-end development. Feel free to explore different ideas, establish sensible constraints, and experiment with your design.
+Try to show us what you would love to deliver as an app to a client—an app you’d be proud of both for its visible UI/UX and for its invisible technical excellence, including clean code and best practices. You only have a small amount of time to deliver your dream app, and during the tech test restitution you must be able to justify your choices. Feel free to use any tool you want to be as efficient as possible (e.g., genAI, boilerplates, UI templates, libraries, etc.). We care about open-source and collaboration rather than reinventing the wheel, though sometimes it’s worth rewriting parts when you need a customized behavior.
+
+If you need to go further to demonstrate mastery of higher-level concepts by using placeholders or making assumptions, do not hesitate—but remember to explain your approach.
 
 ---
 
@@ -62,7 +64,6 @@ Provide a `README.md` with:
 
 ## 📝 Notes
 
-- We're primarily interested in **quality**, **structure**, and **demonstration of skills**, not a fully polished product.
 - Use your best judgment for any unspecified details (e.g., data limits, error handling, etc.).
 - If some parts are **not** fully implemented, mention them in your documentation.
 - If you have remarks or want to add clarifications, put them in the `README.md` as well.
